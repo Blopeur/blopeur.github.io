@@ -13,12 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blopeur Ltd.
+title: Blopeur Ltd. Intellectual property Consulting Services
+tagline: Bespoke Intellectual Property consulting solutions
 email: info@blopeur.com
-description: > # this means to ignore newlines until "baseurl:"
-  Bespoke Intellectual Property consulting solution.
+description: >
+  Blopeur Ltd. is an Intellectual Property boutique consulting firm. We bring together patent expertise,
+  technical excellence, and business acumen across a wide range of ICT markets and ICT technologies.
+  We form strong partnerships with our clients, empowering them to grow their businesses, protect and profit from
+  their intellectual property assets, and strategically position themselves for the future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.blopeur.com" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  twitter: blopeur
+
+
 
 # Company Information
 company_name: Blopeur Ltd.
@@ -34,11 +42,27 @@ twitter_link: https://twitter.com/blopeur
 linkedin_link: https://www.linkedin.com/company/blopeur-limited
 
 
+#seo
+twitter:
+  username: blopeur
+  card: summary
+
+logo: "https://www.blopeur.com/assets/ico/favicon.ico"
+
+social:
+  name: Benoit Hudzia
+  links:
+    - https://twitter.com/blopeur
+    - https://www.linkedin.com/in/BenoitHudzia
+    - https://www.linkedin.com/company/blopeur-limited
+    - https://www.reflectionsofthevoid.com/
+
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
