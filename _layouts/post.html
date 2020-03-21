@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+{% include head_post.html %}
+{% include header_post.html %}
+{% include script_post.html %}
+
+<body>
+
+
+<div class="container">
+
+    <div class="blog-post">
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="row">
+            <div class="services-header">
+                <h1 class="blog-title">
+                    <i class="fa fa-file-text"></i>
+                    <a href="{{ page.url }}">{{ page.title }}</a>
+                </h1>
+            </div>
+        </div>
+
+        <br>
+        <img src="../../../assets/img/blog/{{ page.picture }}" alt="Feature-img" align="right" width="100%"
+             class="blog-image">
+        <br>
+        <p>{{ page.content }} </p>
+        <span class="badge">{{ page.date | date: '%B %d, %Y' }}</span>
+        <div class="pull-right">
+            {% if page.label_default %}
+            <span class="label label-default">{{ page.label_default }}</span>
+            {% endif %}
+
+            {% if page.label_primary %}
+            <span class="label label-primary">{{ page.label_primary }}</span>
+            {% endif %}
+
+            {% if page.label_success %}
+            <span class="label label-success">{{ page.label_success }}</span>
+            {% endif %}
+
+            {% if page.label_info %}
+            <span class="label label-info">{{ page.label_info }}</span>
+            {% endif %}
+
+            {% if page.label_warning %}
+            <span class="label label-warning">{{ page.label_warning }}</span>
+            {% endif %}
+
+            {% if page.label_danger %}
+            <span class="label label-danger">{{ page.label_danger }}</span>
+            {% endif %}
+        </div>
+    </div>
+    <hr>
+</div>
+
+</body>
+
+{% include footer_post.html %}
+</html>

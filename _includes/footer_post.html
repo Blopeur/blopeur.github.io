@@ -1,0 +1,42 @@
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h3><i class="fa fa-map-marker"></i> Contact:</h3>
+                <p class="footer-contact">
+                    {{ site.company_name }} <br>
+                    Phone: {{ site.telephone_number }} <br>
+                    Email: {{ site.company_email }}<br>
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fa fa-external-link"></i> Links</h3>
+                <p><a href="/about"> About</a></p>
+                <p><a href="/services"> Services </a></p>
+                <p><a href="/contact"> Contact </a></p>
+                <p><a href="/blog"> Blog</a></p>
+                <p><a href="/benoithudzia"> Benoit Hudzia</a></p>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fa fa-heart"></i> Socialize</h3>
+                <div id="social-icons">
+                    {% if site.linkedin_link %}
+                    <a href="{{ site.linkedin_link }}" class="btn-group linkedin">
+                        <i class="fa fa-linkedin-square"></i>
+                    </a>
+                    {% endif %}
+                    {% if site.twitter_link %}
+                    <a href="{{ site.twitter_link }}" class="btn-group twitter">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="copyright text center">
+        <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="#">Blopeur Ltd.</a>. </a></p>
+    </div>
+</footer>
