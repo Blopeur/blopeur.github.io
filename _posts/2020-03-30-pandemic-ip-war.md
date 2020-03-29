@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "The upcoming pandemic related IP war"
+title: "Korea Post-Pandemic Intellectual Property Positioning"
 description: "It seems that countries and companies already start to position themselves to reap the benefits of the COVID-19 pandemic aftermath."
 
 picture: covidipwar.jpg
@@ -23,8 +23,8 @@ Recently, the [Korean IP Office (KIPO)](https://kipo.go.kr/kpo/MainApp) created 
 * A platform for users to provide ideas from simple suggestions to inventions. Outstanding ideas might result in patent applications and honoured with government awards.
 
 What is even more interesting is that the KIPO also provides expedited patent examination for inventions related to COVID-19 diagnostic kits, vaccination or medical treatment.
-The patent office can grant patent within 10 days from filling!!! Not only that but the applicant may get further financial support for filing subsequent PCT applications for international coverage. 
+The patent office can grant patent within 10 days from filling!!! Moreover, the applicant may get further financial support for filing subsequent PCT applications for international coverage. 
 
-With the US and EU patent office almost at a standstill, Korea is already placing positioning itself to take advantage of the upcoming pandemic pharmaceutical Intellectual property windfall. I wouldn't be surprised if China follow suit soon.
+With the US and EU patent office almost at a standstill, Korea is already positioning itself to take advantage of the upcoming pandemic related Intellectual Property windfall. I wouldn't be surprised if other governments follow suit soon.
 
 <!--End Main Container -->
