@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "The upcoming pandemic related IP war"
-description: "It seems that a lot of countries and companies are already positioning themselves to benefit from the aftermath of the COVID-19 pandemic."
+description: "It seems that countries and companies already start to position themselves to reap the benefits of the COVID-19 pandemic aftermath."
 
 picture: covidipwar.jpg
 
