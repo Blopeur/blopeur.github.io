@@ -15,8 +15,8 @@ label_danger: "Pandemic"
 ---
 <!-- Main Container -->
 
-It seems that countries and companies already start to position themselves to reap the benefits of aftermath COVID-19 pandemic.
-By example, the [Korean IP Office (KIPO)](https://kipo.go.kr/kpo/MainApp) created [a specific website on patent information related to COVID-19](https://kipo.go.kr/ncov/index.html) called "Corona 19 patent information navigation". Among other contents, the new website includes the following features:
+It seems that countries and companies already start to position themselves to reap the benefits of the COVID-19 pandemic aftermath.
+Recently, the [Korean IP Office (KIPO)](https://kipo.go.kr/kpo/MainApp) created [a specific website on patent information related to COVID-19](https://kipo.go.kr/ncov/index.html) called "Corona 19 patent information navigation". Among other contents, the new website includes the following features:
 
 * Overview of important patents related to coronaviruses, such as SARS or MERS
 * Detailed research reports and statistical analyses on technical trends with regard treatments, diagnostic, vaccinations, antiviral treatments etc.
@@ -25,5 +25,6 @@ By example, the [Korean IP Office (KIPO)](https://kipo.go.kr/kpo/MainApp) create
 What is even more interesting is that the KIPO also provides expedited patent examination for inventions related to COVID-19 diagnostic kits, vaccination or medical treatment.
 The patent office can grant patent within 10 days from filling!!! Not only that but the applicant may get further financial support for filing subsequent PCT applications for international coverage. 
 
-We would not be surprised that other patent offices and governments start to coordinate in the same manners. However, Korea has a significant advantage here. The country is not in complete lockdown and economic activity is still ongoing, albeit at a reduced pace. On the other hand, Europe and the US are almost at a standstill.
+With the US and EU patent office almost at a standstill, Korea is already placing positioning itself to take advantage of the upcoming pandemic pharmaceutical Intellectual property windfall. I wouldn't be surprised if China follow suit soon.
+
 <!--End Main Container -->
