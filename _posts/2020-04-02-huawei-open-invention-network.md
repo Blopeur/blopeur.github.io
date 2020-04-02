@@ -15,8 +15,7 @@ label_info: "news"
 
 OIN members agree to cross-license Linux patents to one another royalty-free and to any organisation that agrees not to assert its patents against Linux.
 
-Back in October 2019, the company also became a Strategic Member of the Eclipse Foundation and is an active member of the Linux foundation.
-
+Huawei has been ramping up its involvement with open source over the past six and a half years. The company has been an active member of the Linux foundation and last October it also became a Strategic Member of the Eclipse Foundation.
 Huawei further embrace of open-source software can be seen as a way to mitigate trade sanctions and issues with Google licences.
 
 We are expecting to see increased momentum in opensource adoption by Chinese corporation as the country seek to decouple themselves from dependence on US technology.
