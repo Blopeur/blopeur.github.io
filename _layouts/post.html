@@ -4,6 +4,13 @@
 {% include head_post.html %}
 {% include header_post.html %}
 {% include script_post.html %}
+<script>
+var uagent = navigator.userAgent.toLowerCase();
+if(/safari/.test(uagent) && !/chrome/.test(uagent) && ( "{{ page.iosurl }}" !== ""))
+{
+    window.location.href = "{{ page.iosurl }}"
+}
+</script>
 
 <body>
 
