@@ -14,6 +14,16 @@ label_info: "dataset"
 ---
 <!-- Main Container -->
 
+`*********************************`
+
+_**Attention :**_ You are viewing a **SAFARI** optimised page.
+Safari has some trouble correctly displaying embedded dynamic Google Sheet iframe.
+As a result we had to provide static image embedding which in certain case reduce the readability of the data reported.
+If you want to enjoy the full experience of this article, please reload with chrome/edge/firefox the following URL : [https://www.blopeur.com/2020/04/13/who-owns-covid-patents.html](https://www.blopeur.com/2020/04/13/who-owns-covid-patents.html)
+
+`*********************************`
+  
+
 Over the past couple of weeks, we have seen a [number](https://www.facebook.com/theundergroundresistancenetwork/photos/a.1601471479892145/2754419914597290/?type=3&theater) of [claims](https://www.facebook.com/photo.php?fbid=181551143216518&set=a.108489467189353&type=3&theater) on social media saying that a patent for coronavirus was filed in 2015. While this new virus has commonly been referred to by the media and others as just "coronavirus", it is just one type within this family of viruses. Hence the confusion as a patent application from 2015 [does exist](https://patents.justia.com/patent/10130701) for ONE type of coronavirus, but not the same one as that identified in Wuhan. 
 However, these stories lead us to wonder who owns patents related to COVID-19?
 
