@@ -63,7 +63,7 @@ More than 8,000 people fell ill from SARS, and 774 died. Since 2004, there have 
 
 First, by casting a high level and broad keyword search, we find that there were 6135 patents filled matching our search over 20 years. There is a spike 2003 corresponding to the first SARS outbreak in Asia with 1176 patents filled this year alone. For the next 15 years, an average of 250 patents was filled. However, we can notice a significant reduction in application over the past two years. This dip does not mean that there are less COVID-19 related patents filled. The most logical explanation for this dip is that most patents with priority date for these years have not been officially released yet.
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc-4zVr5uYNefJ9lQs9iWkjAOdPNFl8jvLxVD04vSnk9hAsYVdIKnkH7EtKTF6ZOnKy8bS8UEzGnfc/pubchart?oid=153144672&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc-4zVr5uYNefJ9lQs9iWkjAOdPNFl8jvLxVD04vSnk9hAsYVdIKnkH7EtKTF6ZOnKy8bS8UEzGnfc/pubchart?oid=153144672&amp;format=interactive"></iframe>
 
 
 If we look at the patents owner distribution, we can notice that the ownership ratio is relatively well distributed.
@@ -78,7 +78,7 @@ There are only a few entities owning patents in the double-digit:
 Two of those are public institutions, while the rest are private pharmaceutical companies. 
 
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcZof_UilhH1uoeI3pgx8SYkZL9hAsCrmbuzp7k7292crNp_7BaoGSQk86jm1ExDYvyDpSpXrtIlTL/pubchart?oid=1438669421&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcZof_UilhH1uoeI3pgx8SYkZL9hAsCrmbuzp7k7292crNp_7BaoGSQk86jm1ExDYvyDpSpXrtIlTL/pubchart?oid=1438669421&amp;format=interactive"></iframe>
 
 
 ## Limited Keywords search:
@@ -87,14 +87,14 @@ If we refine the search by using a more limited number of keywords, we can see t
 We now have only 1560 patents matching our search.
 We can see the same filling behaviour with a spike in 2003 and an average of 75 fillings per year over the next 15 years. 
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRS0Op5TVf8A6fYgsSLrAgCUoErb8A-oek9-0g4OTk6Lffm3MXVMw3rXW-1o6EmQLrx51a0R0-_Z9gK/pubchart?oid=1552463898&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRS0Op5TVf8A6fYgsSLrAgCUoErb8A-oek9-0g4OTk6Lffm3MXVMw3rXW-1o6EmQLrx51a0R0-_Z9gK/pubchart?oid=1552463898&amp;format=interactive"></iframe>
 
 The ownership spread pattern is also similar, but the entity in the top five changed significantly.
 Only the University of Hongkong and Versitech Limited are still present.
 The US government seems to own directly or indirectly at least 5% of these patents.
 The defunct Theranos Inc. also makes a surprise appearance. 
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOBqhxM-LEcq9zCmIROKFUwNpZvsM74-Cv0FyRt9CElNP1pn0PEQe8shdfUIayEWXE9UaeZBN3HDAm/pubchart?oid=1562322448&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOBqhxM-LEcq9zCmIROKFUwNpZvsM74-Cv0FyRt9CElNP1pn0PEQe8shdfUIayEWXE9UaeZBN3HDAm/pubchart?oid=1562322448&amp;format=interactive"></iframe>
 
 ## Search by CPCs categories
 
@@ -108,10 +108,10 @@ We get yet another picture of the COVID-19 patents puzzle.
 This time we only have 1084 match, and we can see that the application patterns spike for both the SARS and MERS outbreak.  The University of HongKong is still in the top five, followed closely by Academia Sinica. However, private pharmaceutical corporations are now making the majority of the top 10. 
 
 **CPCs Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_hr1v5UiEBh2wR79UjD3KJ4P4JeupxwGBOJ_s_qIwpI5jgZN5NUsEaH95PowTyfhJAShIQbuCUHD0/pubchart?oid=1605646673&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_hr1v5UiEBh2wR79UjD3KJ4P4JeupxwGBOJ_s_qIwpI5jgZN5NUsEaH95PowTyfhJAShIQbuCUHD0/pubchart?oid=1605646673&amp;format=interactive"></iframe>
 
 **CPCs Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDhzuqsE8zdpSDyMg2bdHSa_nSOLtORGQR5XFkIlfd3qdqH5ELMY82lg9hayT_-8Xr3-RUy0wW5Zr/pubchart?oid=1350538774&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDhzuqsE8zdpSDyMg2bdHSa_nSOLtORGQR5XFkIlfd3qdqH5ELMY82lg9hayT_-8Xr3-RUy0wW5Zr/pubchart?oid=1350538774&amp;format=interactive"></iframe>
 
 
 We can note at this stage, after three types of search that very few entities own patents in the double-digit numbers. Only the University of  HongKong Vis consistently ranked in the top five owners. They have been heavily involved in this type of research since the beginning through the Pasteur Research pole.
@@ -124,16 +124,16 @@ However, let us see if this hold when we break down the patent between SARS and 
 ## MERS and SARS :
 
 **SARS Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_M9odleqATDEgkEtg4qae8Zl8P8ym5sRvkIG6arz7OW-JWBobxf-ogW1uGtbA_AOOIpotSMys8IgY/pubchart?oid=502981747&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_M9odleqATDEgkEtg4qae8Zl8P8ym5sRvkIG6arz7OW-JWBobxf-ogW1uGtbA_AOOIpotSMys8IgY/pubchart?oid=502981747&amp;format=interactive"></iframe>
 
 **SARS Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXqiCcDfgPjGdzbdIJP-TZikqvlnKNbRwfEQ3Q-APIwveVI4rCKxHOC7QljPmQHslamAGzdHBASK4O/pubchart?oid=1226729489&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXqiCcDfgPjGdzbdIJP-TZikqvlnKNbRwfEQ3Q-APIwveVI4rCKxHOC7QljPmQHslamAGzdHBASK4O/pubchart?oid=1226729489&amp;format=interactive"></iframe>
 
 **MERS Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSoRMDfGMxiGGp9SNKu13gpQJchBzwxWruYJM6mXHWQY-za-yjdgiwhoUSgwQz6AeC0pApsM2GmWLa/pubchart?oid=714375561&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSoRMDfGMxiGGp9SNKu13gpQJchBzwxWruYJM6mXHWQY-za-yjdgiwhoUSgwQz6AeC0pApsM2GmWLa/pubchart?oid=714375561&amp;format=interactive"></iframe>
 
 **MERS  Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDZAg_a6axP3rNqalnLz38m6Mpd3REQ1SckSbvuabWB7cOScFmm5-4ozOb0DOzobHvbQCdi6YVNcdU/pubchart?oid=876859370&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDZAg_a6axP3rNqalnLz38m6Mpd3REQ1SckSbvuabWB7cOScFmm5-4ozOb0DOzobHvbQCdi6YVNcdU/pubchart?oid=876859370&amp;format=interactive"></iframe>
 
 If we restrict our search to MERS and SARS specific patents, we can notice that MERS seems to see a lot less interest compared to SARS. Two hundred fifty-nine patents were filled with an average of 32 per years from 2012. While there were 1390 patents filled for SARS with an average of 73 patents a year.
 Patent ownership is also a lot more polarised in the case of MERS with Regeneron Pharmaceuticals owning 10% of the patent pool. Nevertheless, these numbers are due to the low amount of filling. On the other hand, SARS patent follows a similar pattern to the one found in the generic keywords searches. The only surprise it Intermune Inc (now owned by Roche) popping up in the first place. 
@@ -141,16 +141,16 @@ Patent ownership is also a lot more polarised in the case of MERS with Regeneron
 ### Diagnostics MERS & SARS Patents : 
 
 **SARS Diagnostic Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_M9odleqATDEgkEtg4qae8Zl8P8ym5sRvkIG6arz7OW-JWBobxf-ogW1uGtbA_AOOIpotSMys8IgY/pubchart?oid=502981747&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_M9odleqATDEgkEtg4qae8Zl8P8ym5sRvkIG6arz7OW-JWBobxf-ogW1uGtbA_AOOIpotSMys8IgY/pubchart?oid=502981747&amp;format=interactive"></iframe>
 
 **SARS Diagnostic Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-WPwVJ7GgsKMUXdbFkTJlvKnvxZDqA7GV-9daRmIZBAOTUgFBdBmyQMHGFpfEt9NToHpk7KSnfuNk/pubchart?oid=358684455&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-WPwVJ7GgsKMUXdbFkTJlvKnvxZDqA7GV-9daRmIZBAOTUgFBdBmyQMHGFpfEt9NToHpk7KSnfuNk/pubchart?oid=358684455&amp;format=interactive"></iframe>
 
 **MERS Diagnostic Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQPTNPR7IZ7VEMMkCpm5xXcJiJRdEAF30n4M-WxfNuW6IZtXBnY5CCJgFgPS_FYN4BqYyw3ZEADtA7x/pubchart?oid=2033491308&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQPTNPR7IZ7VEMMkCpm5xXcJiJRdEAF30n4M-WxfNuW6IZtXBnY5CCJgFgPS_FYN4BqYyw3ZEADtA7x/pubchart?oid=2033491308&amp;format=interactive"></iframe>
 
 **MERS Diagnostic Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeAwSCjAkTaqpGz3oqHXl0XAqPswUtk9wRJmkok192SXBhqtYG9fkO7VIbaQym_oda2O3s7TkqOfoV/pubchart?oid=1125531800&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeAwSCjAkTaqpGz3oqHXl0XAqPswUtk9wRJmkok192SXBhqtYG9fkO7VIbaQym_oda2O3s7TkqOfoV/pubchart?oid=1125531800&amp;format=interactive"></iframe>
 
 If we drill down for diagnostic patents, we can that only a fraction of the overall patent applications are related to the diagnostic solution.
 The University of HongKong being once again one of the predominant applicants with [Crucell Holland](https://scrip.pharmaintelligence.informa.com/companies/201300051) (owned by Johnson & Johnson ) close second for SARS diagnostics. 
@@ -159,16 +159,16 @@ The University of HongKong being once again one of the predominant applicants wi
 ### Treatments MERS & SARS Patents :
 
 **SARS Treatment Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQrRjMQbJpUyPpXmwxt3Nz5dHPRDtsgmtwZZ4TFfzYs1E888PXkQ9yDLRg9uGdFMxhFNgtdwH1Rmr5/pubchart?oid=496699054&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQrRjMQbJpUyPpXmwxt3Nz5dHPRDtsgmtwZZ4TFfzYs1E888PXkQ9yDLRg9uGdFMxhFNgtdwH1Rmr5/pubchart?oid=496699054&amp;format=interactive"></iframe>
 
 **SARS Treatment Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRglOAlOUSkggDV8XcEQ-T94-7bw5ND3Y4ViLhDAXhaIkrNE9zNC4WiUzvkOBfGgeqdWhQuLZYHYQWk/pubchart?oid=1437411067&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRglOAlOUSkggDV8XcEQ-T94-7bw5ND3Y4ViLhDAXhaIkrNE9zNC4WiUzvkOBfGgeqdWhQuLZYHYQWk/pubchart?oid=1437411067&amp;format=interactive"></iframe>
 
 **MERS Treatment Patents Fillings**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6XeINEHZ04bLD5SsEUxOQJ0shiDCOfoVUNqPwqZu1d_bgnQuNRslWLraHwQrg7IGzNSWXhaHxfp0E/pubchart?oid=342584046&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6XeINEHZ04bLD5SsEUxOQJ0shiDCOfoVUNqPwqZu1d_bgnQuNRslWLraHwQrg7IGzNSWXhaHxfp0E/pubchart?oid=342584046&amp;format=interactive"></iframe>
 
 **MERS Treatment Patents Owners Breakdown**
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUI4ufRQEbNU2jgY3fedfj5yxzGQc4ebr36zPXRaI1X7iSa6-b08GEOB0P0iTn4IE3DHTVldcsybcx/pubchart?oid=1520254257&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUI4ufRQEbNU2jgY3fedfj5yxzGQc4ebr36zPXRaI1X7iSa6-b08GEOB0P0iTn4IE3DHTVldcsybcx/pubchart?oid=1520254257&amp;format=interactive"></iframe>
 
 Surprisingly when it comes to treatment, there is a lot more interest for MERS than for diagnostics (110 vs ). 
 Also, it seems that the university of HongKong has been more heavily focused on diagnostics than treatment in that domain as they dropped to rank 13th in applications.
@@ -178,17 +178,17 @@ Surprisingly there is a large number of patents owned by the US government for M
 
 ## Ventilators Patents : 
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS93Ko4ToyIzhkRW82lDAHhEZmIs6od-Pq9nIke4tmdxWnyDEFyRJBMOr7SHKw3_HEpRQHrnTenOeTi/pubchart?oid=1574470958&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS93Ko4ToyIzhkRW82lDAHhEZmIs6od-Pq9nIke4tmdxWnyDEFyRJBMOr7SHKw3_HEpRQHrnTenOeTi/pubchart?oid=1574470958&amp;format=interactive"></iframe>
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEtB6Uuwvg5SDt2SuAUzwdzXfExkXBChwEBiBjvGxG_doEwiLnAq_c6yAtMsGsa9EUHu9S3xhPdfAb/pubchart?oid=941955487&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEtB6Uuwvg5SDt2SuAUzwdzXfExkXBChwEBiBjvGxG_doEwiLnAq_c6yAtMsGsa9EUHu9S3xhPdfAb/pubchart?oid=941955487&amp;format=interactive"></iframe>
 
 For ventilators, the number of patent applications is significantly higher than the MERS/SARS one. There were 8815 patents filled in 20years for an average of 440 a year. Patent filing is dominated by two german companies: Drager (7.7%) and Resmed (5.7%). Followed by Nellcor(5.5%), General Electric (3.4%), Covident (3.0%) and RIC(2.1%) making up a quarter of the total filling.
 
 ## Respirators and Surgical Masks Patents : 
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShFihuRAp43xlo8_xx5YH8EovhvkPCeLl_D2wcUWvh6T_8_DEbR3bpD2cOVt_Zqnk23X7NGL0ivsFd/pubchart?oid=1378721455&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShFihuRAp43xlo8_xx5YH8EovhvkPCeLl_D2wcUWvh6T_8_DEbR3bpD2cOVt_Zqnk23X7NGL0ivsFd/pubchart?oid=1378721455&amp;format=interactive"></iframe>
 
-<iframe width="610" height="380" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Ax3cK1oDZMcTiWLV8-8mKFyvs4hoWH1PDPvUzcZN-Ow_zAPWveLsBes0PNJJSgPIF3WiegMSbySp/pubchart?oid=1265692380&amp;format=interactive"></iframe>
+<iframe width="610" height="380" seamless frameborder="0" scrolling="no"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Ax3cK1oDZMcTiWLV8-8mKFyvs4hoWH1PDPvUzcZN-Ow_zAPWveLsBes0PNJJSgPIF3WiegMSbySp/pubchart?oid=1265692380&amp;format=interactive"></iframe>
 
 As for masks, surprisingly, M3 (5.5%) is not the top patentee.
 While still owning 5.5% of the fillings, the lion share is owned by Kimberly-Clark (13.5%), Avent (6.6%) and O&N Haylard (6.6%).
