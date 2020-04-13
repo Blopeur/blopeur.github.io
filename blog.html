@@ -16,7 +16,8 @@ published: true
             <a href="{{ post.url }}">{{ post.title }}</a>
         </h1>
         <br>
-        <img src="assets/img/blog/{{ post.picture }}" alt="Feature-img" align="right" width="100%" class="blog-image">
+        <img src="assets/img/blog/{{ post.picture }}" alt="Feature-img" align="center" width="100%" class="blog-image">
+        <br>
         <br>
         <p>{{ post.description }} <a href="{{ post.url }}">Read More...</a></p>
         <span class="badge">{{ post.date | date: '%B %d, %Y' }}</span>
