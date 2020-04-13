@@ -9,8 +9,8 @@ published: true
     <br>
     <br>
     <br>
-    {% for post in site.posts %}
-    {% if post.main == "true" %}
+    {% assign publishedPosts = site.posts | where: 'main', 'true' %}
+    {% for post in publishedPosts %}
     <div class="blog-post">
         <h1 class="blog-title">
             <i class="fa fa-file-text"></i>
@@ -49,7 +49,6 @@ published: true
         </div>
     </div>
     <hr>
-    {% endif %}
     {% endfor %}
 </div>
 <!--End Main Container -->
