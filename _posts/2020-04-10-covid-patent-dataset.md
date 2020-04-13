@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "Open-source COVID-19 Patents and Research work Datasets"
 description: "Interactive tool and open source dataset for understanding the landscape of patent and research works in a human coronaviruses and COVID-19."
 

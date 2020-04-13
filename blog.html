@@ -10,6 +10,7 @@ published: true
     <br>
     <br>
     {% for post in site.posts %}
+    {% if post.main == "true" %}
     <div class="blog-post">
         <h1 class="blog-title">
             <i class="fa fa-file-text"></i>
@@ -48,6 +49,7 @@ published: true
         </div>
     </div>
     <hr>
+    {% endif %}
     {% endfor %}
 </div>
 <!--End Main Container -->

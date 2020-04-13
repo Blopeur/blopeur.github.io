@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "Big drugmakers under pressure to share patents against coronavirus"
 description: "WHO backs making pharmaceuticals open up intellectual property as it did to fight HIV/Aids."
 

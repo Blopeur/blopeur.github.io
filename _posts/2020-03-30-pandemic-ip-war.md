@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "Korea Post-Pandemic Intellectual Property Positioning"
 description: "It seems that countries and companies already start to position themselves to reap the benefits of the COVID-19 pandemic aftermath."
 

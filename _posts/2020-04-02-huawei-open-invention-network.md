@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "Huawei has become a licensee member of the Open Invention Network"
 description: "OIN members agrees to cross-license Linux patents to one another royalty-free and to any organisation that agrees not to assert its patents against Linux."
 

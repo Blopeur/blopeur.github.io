@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "Patent Jury Told COVID-19 Is Reason for Not Finding Liability"
 description: "Looks like Oxford Nanopore Technologies Inc. counsel may have used the current #COVID19 situation to sway the jury in a #patent infringement case."
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+main: true
 title: "The never-ending story of X86 patents expiration"
 description: "Every couple of years, this story re-emerges, and everybody starts to talk about the upcoming expiry of x86 related patents. They were followed by several stories revolving emulation and the forthcoming flood of third-party implementations of compatible processors. But this never happens. Why?"
 
