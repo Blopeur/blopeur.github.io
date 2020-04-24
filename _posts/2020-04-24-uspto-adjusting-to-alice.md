@@ -2,7 +2,7 @@
 layout: post
 published: true
 main: true
-title: "Adjusting to Alice: USPTO patent examination outcomes after Alice Corp. v. CLS Bank International"
+title: "USPTO patent examination outcomes after Alice Corp. v. CLS Bank International"
 description: "USPTO Chief Economist’s office just released its report on patent examination outcomes after the Supreme Court’s Alice decision."
 
 picture: aliceuspto.gif
