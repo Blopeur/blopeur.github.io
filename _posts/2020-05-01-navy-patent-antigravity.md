@@ -18,7 +18,7 @@ The [US Navy has patented antigravity](https://patents.google.com/patent/US10144
 The patent describes a device that uses a microwave emitter to create a high-frequency electromagnetic wave through a cavity to create a polarized vacuum.
 This polarized vacuum, in turn, reduces the mass of the vehicle containing the device. 
 
-<img src="../../../assets/img/blog/antigravity" alt="Feature-img" align="center" width="100%" class="blog-image">
+<img src="../../../assets/img/blog/antigravity.png" alt="Feature-img" align="center" width="100%" class="blog-image">
 
 It seems that the inventors propose to use the properties of high energy electromagnetic field generator to interact strongly with the vacuum energy state.
 The system described seems, according to the authors, to generate quantum fields' fluctuations permeating the entire fabric of spacetime.
