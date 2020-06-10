@@ -13,7 +13,7 @@ label_info: "huawei"
 ---
 <!-- Main Container -->
 Intellectual property battle for #5G dominance is raging.
-While a lot of company focus on the numbers game, a recent study cast a different light on qualitative vs quantitative patent landscape.
+While a lot of company focus on the numbers game, [a recent study](http://info.greyb.com/5g-standard-essential-patents-who-owns-the-5g-patents) cast a different light on qualitative vs quantitative patent landscape.
 
 It has been long known that Asian company are at the top of the leaderboards for the total number of 5G patents owned.
 However, a recent study by Amplified & Grey show that they are not only leading on the quantitative front but also qualitative.
