@@ -3,7 +3,7 @@ layout: post
 published: true
 main: true
 title: "Web scrapping, a legal grey area"
-description: "Many web scrapping cases are not very clear cut and sway from one direction to another. And a recent court judgment murk the water even more."
+description: "Many web scrapping cases are not very clear cut and sway from one direction to another. And a recent court judgement murky the water even more."
 
 picture: webscrap.gif
 
