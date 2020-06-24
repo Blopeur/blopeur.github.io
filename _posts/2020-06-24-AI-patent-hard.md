@@ -5,7 +5,7 @@ main: true
 title: "Patenting AI pitfalls"
 description: "It is not sufficient for an AI patent claims to contains a causal link to a technical purpose for the application to be successful."
 
-picture: aipatent.png
+picture: aipitfall.jpg
 
 label_default: "patent" 
 label_primary: "Artificial Intelligence"
@@ -41,4 +41,6 @@ Your application should also contain a description of :
     * Used of trained classifiers, the sequence of classifier use
     * End to end workflow description
     * Hardware that provides input to / receives and uses the output of AI systems
+    
+
 <!--End Main Container -->
