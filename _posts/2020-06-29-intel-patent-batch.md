@@ -52,7 +52,7 @@ Patent: [System approach to reduce stable threshold voltage (Vt) read disturb de
 
 Patent: [Real time holography using learned error feedback - Intel](http://freepatentsonline.com/20200117139.pdf).  Intel is already working on Real-Time holography on its GPUs. Most likely using heterogeneous computing on the GPU. 
 
-Patent: [Substrate thermal layer for heat spreader connection - Intel](http://freepatentsonline.com/20200118902.pdf) This has the potential to reduce or even prevent the emergence of local hotspots developing in the dies. More details: 
+Patent: [Substrate thermal layer for heat spreader connection - Intel](http://freepatentsonline.com/20200118902.pdf) This has the potential to reduce or even prevent the emergence of local hotspots developing in the dies. 
 
 Patent: [Tensor-based computing system for quaternion operations - Intel](http://freepatentsonline.com/20200117993.pdf). Interesting to see that Intel is trying to add Spinor operations to its chip while using tensor foundation. 
 
@@ -60,9 +60,9 @@ Patent: [Solid state drive with multiplexed internal channel access during progr
 
 Patent: [Context save with variable save state size - Intel](http://freepatentsonline.com/20200110608.pdf) A more efficient XSAVE is on the way.
 
-Patent: [Avoid thread switching in cache management - Intel](http://freepatentsonline.com/20200110721.pdf) A method to avoid thread switching in cache management in Intel GPUs. More details: 
+Patent: [Avoid thread switching in cache management - Intel](http://freepatentsonline.com/20200110721.pdf) A method to avoid thread switching in cache management in Intel GPUs.
 
-Patent: [Apparatus and method for multiplication and accumulation of complex values - Intel](http://freepatentsonline.com/20200110581.pdf) The VEX-encoded 128-bit DSP instructions... More details: 
+Patent: [Apparatus and method for multiplication and accumulation of complex values - Intel](http://freepatentsonline.com/20200110581.pdf) The VEX-encoded 128-bit DSP instructions.
 
 As you can see this, there is quite a bit of encryption-related effort. But, the more exciting patents revolve around the FPGA and chipset technology (MCM, NoCs) where Intel needs to catch up with Arm and AMD. Last but not least, it is rather interesting that we start to see Spinor associated technology popping up at the hardware level. 
 
