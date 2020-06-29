@@ -2,7 +2,7 @@
 layout: post
 published: true
 main: true
-title: "Patenting AI pitfalls"
+title: "AI Patenting Pitfalls"
 description: "It is not sufficient for an AI patent claims to contains a causal link to a technical purpose for the application to be successful."
 
 picture: aipitfall.jpg
