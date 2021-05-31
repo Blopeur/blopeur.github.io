@@ -12,7 +12,7 @@ label_primary: "USPTO"
 label_info: "withdrawn"
 ---
 <!-- Main Container -->
-The U.S. Patent and Trademark Office (USPTO) an exponential rise of patent application withdrawal over the past couple of years.
+The U.S. Patent and Trademark Office (USPTO) is seeing an exponential rise of patent application withdrawal over the past couple of years.
 
 Often the applicant failed to pay the issue fee which leads to patent grant withdrawal.
 Alternatively, applicant filed multiple other application deriving from the same subject and simply pick the best one to cut down cost.
