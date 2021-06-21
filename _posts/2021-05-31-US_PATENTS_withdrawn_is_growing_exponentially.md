@@ -22,7 +22,7 @@ due to the discovery of new prior art or other issues, it is not to their best i
 
 
 However, what is puzzling is that it costs $0 to let a patent with an assigned number issue and >$0 to
-have it withdrawn there must be a financial incentive to withdraw application. Either that or patent examiner are getting better at finding prior arts.
+have it withdrawn there must be a financial incentive to withdraw applications. Either that or patent examiner are getting better at finding prior arts.
 
 
 
